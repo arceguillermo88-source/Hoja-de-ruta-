@@ -1,0 +1,2 @@
+Subir index.html a la raíz de un repositorio GitHub Pages. Activar Settings > Pages > main / root. Insertar la URL pública en un iframe Moodle de ancho 100% y altura inicial 950 px. No requiere archivos externos.
+Nota: el PDF dice actividad final de cada unidad; se usa actividad final de cada asignatura conforme a la estructura definida previamente.
